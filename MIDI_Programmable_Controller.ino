@@ -1,5 +1,5 @@
 // 2024.9.15 ver.2.0.1
-// MIDI Programable Controller
+// MIDI Programmable Controller
 
 // ==================================================
 // プリプロセッサ
