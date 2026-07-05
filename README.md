@@ -1,0 +1,2 @@
+# MIDI-Programable-Controller
+MIDI制御エフェクターおよびアンプを統合的に制御するための、足元用MIDIプログラマブルスイッチャー
