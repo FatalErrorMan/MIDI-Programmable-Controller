@@ -11,7 +11,7 @@
 </p>
 <br/>
 
-## 動作イメージ
+## 動作イメージ（音色切り替えデモのため、音声があります）
 https://github.com/user-attachments/assets/d3a155da-3ebb-41cc-a924-892b517a26bb
 
 # :globe_with_meridians:概要
